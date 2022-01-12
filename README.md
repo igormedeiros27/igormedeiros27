@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Igor Medeiros.
-- 👀 I’m interested in Python, a job and training.
+- 👀 I’m interested in Python, SQL, a job and training.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Python Development.
+- 💞️ I’m looking to collaborate on Data Analysis.
 - 📫 How to reach me professorigormedeiros@hotmail.com
 
 <!---
